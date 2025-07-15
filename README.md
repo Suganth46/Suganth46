@@ -20,7 +20,6 @@
 - **Web:** HTML, CSS
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Tools:** Postman, Git
-- **Other Interests:** Cybersecurity, AI assistants, Encryption tools
 
 ---
 
