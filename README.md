@@ -30,13 +30,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suganth46&show_icons=true&theme=radical" alt="Suganth46's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganth46&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</div>
-
----
-
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/suganth-j-3507b2293)
