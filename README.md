@@ -33,7 +33,7 @@
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/suganth-j-3507b2293)
-
+- [Portfolio](https://suganth46.netlify.app/)
 ---
 
 
