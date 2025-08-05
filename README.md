@@ -10,6 +10,7 @@
   📍 Salem, Tamil Nadu, India &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/suganth-j-3507b2293" target="_blank">LinkedIn</a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suganth46&label=Profile%20views&color=0e75b6&style=flat" alt="Suganth46" /> </p>
 
 ---
 
@@ -35,6 +36,10 @@
 - [LinkedIn](https://www.linkedin.com/in/suganth-j-3507b2293)
 - [Portfolio](https://suganth46.netlify.app/)
 ---
+<p><img align="center" margin-left="120px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suganth46&show_icons=true&locale=en&layout=compact" alt="Suganth46" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suganth46&show_icons=true&locale=en" alt="Suganth46" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suganth46&" alt="Suganth46" /></p>
 
 
