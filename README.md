@@ -23,13 +23,6 @@
 
 ---
 
-### 🚀 Goals
-
-- Contribute to open-source Java & Spring Boot projects  
-- Build secure full-stack applications  
-
----
-
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/suganth-j-3507b2293)  
