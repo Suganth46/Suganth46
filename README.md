@@ -16,12 +16,6 @@
 
 ---
 
-## 💡 About Me
-
-- 💻 I specialize in **Java backend development** with Spring Boot.  
-- 🔍 Passionate about **problem-solving** and exploring **system design** concepts.  
----
-
 ## 🛠 Tech 
 
 <p align="center">
