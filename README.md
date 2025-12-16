@@ -40,7 +40,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suganth46&theme=dark" alt="Streak Stats" />
+ <img
+      src="https://github-readme-streak-stats-eight.vercel.app?user=Suganth46&theme=dark&hide_border=false"
+      alt="GitHub Streak"
+    />
 </p>
 
 <p align="center">
