@@ -46,10 +46,7 @@
     />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suganth46&show_icons=true&theme=dark&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganth46&layout=compact&theme=dark" height="160" />
-</p>
+
 
 ---
 
